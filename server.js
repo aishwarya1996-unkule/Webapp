@@ -19,6 +19,7 @@ var onDefault=function(req, res){
               "<hr/>"+
               "<ol>"+
                     "<li>Material</li>"+
+                    "<li>StudyMaterial</li>"+
                     " <li>Workshops</li>"+
                     " <li>Online Course</li>"+
                     " <li>Corporate Training</li>"+
